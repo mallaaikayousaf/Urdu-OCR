@@ -7,7 +7,6 @@
 
 An end-to-end Machine Learning project showcasing a **Convolutional Neural Network (CNN)** capable of recognizing **40 handwritten Urdu characters**. The project features a clean, interactive **Streamlit web application** with a live drawable canvas and a file uploader for handwriting prediction.
 
-Developed as part of the course **AIC270 — Programming for AI** (SP24 BAI) at **COMSATS University**.
 
 ---
 
@@ -129,4 +128,4 @@ The confusion matrix showcases the classification precision across the 40 distin
 
 ## 📜 License
 This project is for educational purposes. All rights belong to the contributors.
-CUniversity — SP24 BAI Coursework.
+
